@@ -4,7 +4,7 @@ import TrafficLight from "./TrafficLight";
 const Home = () => {
   return (
     <div>
-      <h1 className="citypop-title">Traffic Light</h1>
+      <h1 className="citypop-title">Traffic Light With React</h1>
       <TrafficLight />
     </div>
   );
